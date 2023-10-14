@@ -10,7 +10,7 @@ btn.addEventListener("click", function () {
         return;
     }
 
-    height = height / 100;
+    //height = height / 100;
 
     let BMI = weight / (height * height);
 

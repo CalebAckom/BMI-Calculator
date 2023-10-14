@@ -6,7 +6,7 @@ btn.addEventListener("click", function () {
 
     if (height == "" || weight == "")
     {
-        alert("Caleb says input the height and weight!");
+        alert("Please, input the height and weight!");
         return;
     }
 
